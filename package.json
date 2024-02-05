@@ -83,8 +83,8 @@
     "node-gyp": "^9.4.0",
     "normalize.css": "^8.0.0",
     "opn": "^5.2.0",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-hot-loader": "^4.1.2",
     "sass": "^1.66.1",
     "sass-loader": "^10.4.1",
@@ -103,7 +103,7 @@
   "homepage": "https://github.com/comet-ml/react-mde.git#readme",
   "peerDependencies": {
     "react": ">=16.0.0",
-    "react-dom": "^16.0.0",
+    "react-dom": ">=16.0.0",
     "draft-js": "^0.11.7"
   },
   "dependencies": {
