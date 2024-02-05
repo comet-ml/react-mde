@@ -102,7 +102,7 @@
   },
   "homepage": "https://github.com/comet-ml/react-mde.git#readme",
   "peerDependencies": {
-    "react": "^16.0.0",
+    "react": ">=16.0.0",
     "react-dom": "^16.0.0",
     "draft-js": "^0.10.5"
   },
