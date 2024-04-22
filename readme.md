@@ -1,3 +1,5 @@
+:no_entry: [DEPRECATED] Not used anymore in the `comet-react` repository
+
 # NOTE: 
 This project was cloned from the supported repositoyry because it was a good base but needed enought modification to justify a fork.
 
